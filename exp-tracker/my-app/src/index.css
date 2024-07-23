@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+}
+
+html{
+  font-family:'Times New Roman', Times, serif;
+}
+
+body{
+  margin: 0;
+  background-color: #422b0f; 
+  color: beige ;
+}
+
+h2{
+  margin-left: 650px;
+  font-size: 2rem;
+  font-style: italic;
+}
